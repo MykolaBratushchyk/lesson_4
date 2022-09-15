@@ -1,0 +1,47 @@
+.block p {
+    font-family: Larsseit;
+    font-weight: 500;
+    color: rgb(73, 92, 13);
+}
+
+h1 {
+    font-family: Lato;
+    font-weight: 900;
+    color: red;
+}
+
+h2 {
+    font-family: Lato;
+    font-weight: 700;
+    color: rgb(0, 255, 157);
+}
+
+h2.subtitle {
+    font-family: Lato;
+    font-weight: 700;
+    color: rgb(0, 255, 4);
+}
+
+a {
+    font-family: Larsseit;
+    font-weight: 700;
+    color: rgb(255, 0, 221);
+}
+
+.info p {
+    font-family: Roboto;
+    font-weight: 400;
+    color: rgb(108, 28, 98);
+}
+
+span {
+    font-family: Roboto;
+    font-weight: 400;
+    color: rgb(0, 251, 255);
+}
+
+h3 {
+    font-family: Lato;
+    font-weight: 500;
+    color: rgb(43, 0, 255);
+}
